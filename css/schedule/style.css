@@ -1,0 +1,31 @@
+html{
+    text-align: center;
+    margin: auto;
+    width: 700px;
+    /* background-color: black; */
+}
+
+/*ロゴの画像*/
+.rogo{
+    border-radius: 50%;
+}
+
+.menu4{
+    display: flex;
+    justify-content: space-around;
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: red;
+}
+
+.setumei{
+     font-size: 20px;
+}
